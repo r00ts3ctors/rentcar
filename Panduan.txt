@@ -1,0 +1,5 @@
+user melakukan order dan sistem menyiapkan form order mobil yang di butuhkan
+setelah melakukan pengisian form maka user akan di arahkan untuk melakuka pembayaran di depan
+setelah melakukan pembayaran di depan maka user di wajibkan untuk berjumpa langsung dengan agen yang bersangkutan
+
+agen melakukan proses transaksi mobil, dengan jaminan tertentu misal sepeda motor atau lainnya.
